@@ -56,5 +56,3 @@ The scraper extracts the following fields into a structured CSV:
 ### Installation
 
 Clone the repository:
-
-```bash
