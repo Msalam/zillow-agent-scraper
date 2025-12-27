@@ -52,7 +52,3 @@ The scraper extracts the following fields into a structured CSV:
 - Python 3.8+  
 - ScrapingBee API Key  
 - Google Colab (Optional, configured for Drive storage)  
-
-### Installation
-
-Clone the repository:
