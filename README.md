@@ -58,5 +58,3 @@ The scraper extracts the following fields into a structured CSV:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/zillow-agent-scraper.git
-cd zillow-agent-scraper
